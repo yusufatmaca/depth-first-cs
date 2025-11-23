@@ -14,3 +14,4 @@
 * [Evolution of Real-Time Systems (WebSocket to Kafka)](https://medium.com/cloud-and-servers/gerçek-zamanlı-sistem-mimarisinin-evrimi-websocketten-kafka-ya-9cc47f003633)
 * [File System Research Papers](https://github.com/hegongshan/File-System-Paper)
 * [Algorithms for Scaling Systems](https://x.com/asmah2107/status/1968726314132849108)
+* [Some White Papers](https://x.com/systemdesignone/status/1790719334077100541)
