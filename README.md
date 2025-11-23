@@ -1,25 +1,63 @@
-# Depth-First Computer Science
-A curated collection of bookmarks, references, and learning resources focused on **Systems Engineering**, **High-Performance Computing**, and **Low-Level Implementation**.
+# Principia Computatoria
+A curated, long-term knowledge vault of _Computer Science_, _Systems_, and _Engineering_ — inspired by classical "Principia" works. This repository collects foundational resources, papers, courses, tools, and essays across low-level systems, algorithms, compilers, operating systems, HPC, GPUs, databases, and more.
 
-## 📚 Contents
+## 🏛️ Philosophy
+- Principia Computatoria is a personal and public treatise on computing. It embraces:
+- First principles thinking
+- Breadth with depth across CS subfields
+- Elegant, minimalist curation
+- High signal, zero noise
+- Longevity over trends
 
-- [C/C++ & Memory Models](#c-cpp-memory-models)
-- [HPC, CUDA & Parallel Programming, Optimization Methods](#hpc-cuda--optimization)
-- [Operating Systems & Computer Architecture](#operating-systems--computer-architecture)
-- [Databases & Distributed Systems](#databases--distributed-systems)
-- [Compilers, Parsers & Automata](#compilers-parsers--automata)
-- [Data Structures and Algorithms](#data-structures--algortihms)
-- [Machine Learning & AI](#ml--ai)
-- [Development Environment (Linux, Git, Emacs)](#development-environment-linux-git-emacs)
+This is not a bookmark dump. It is a structured, evolving handbook.
+
+## 🧭 Table of Contents
+- C/C++
+- High-Performance Computing, Parallel Programming, CUDA, etc.
+- Data Structures and Algorithms
+- Operating Systems and Computer System Architecture
+- Databases & Query Optimization
+- Distributed & Real-Time Systems
+- Linux, Contributing Open Source, Docker
+- Compilers, Automata & Parsers
+- Computer Graphics
+- General Computer Science
+- Math, AI & ML
+- Emacs
+- Development Environment & .bashrc
+
+## 📁 Repository Structure
+```
+principia-computatoria/
+├── README.md
+├── docs/
+│   ├── c-cpp.md
+│   ├── parallelism-hpc.md
+│   ├── algorithms.md
+│   ├── operating-systems.md
+│   ├── databases.md
+│   ├── distributed-systems.md
+│   ├── linux-devops.md
+│   ├── compilers-parsing.md
+│   ├── graphics.md
+│   ├── cs-foundations.md
+│   ├── math-ml.md
+│   ├── emacs.md
+│   └── environment.md
+└── assets/
+    ├── logo.svg
+    └── banners/
+```
+Each topic lives in its own docs/*.md page.
 
 ## C/C++ & Memory Models
 *References, guidelines, and deep dives into memory.*
 ### Manuals, References, etc.
-- [C++ Best Practices: Style](https://lefticus.gitbooks.io/cpp-best-practices/content/03-Style.html)
+- [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-- [The Pitchfork Layout (Project Structure)](https://joholl.github.io/pitchfork-website/#submod.libs)
+- [The Pitchfork Layout](https://joholl.github.io/pitchfork-website/#intro)
 - [Beej's Guides](https://beej.us/guide/)
-- [Awesome C++](https://awesomecpp.com/)
+- [Awesome C++: A collection of resources on modern C++](https://awesomecpp.com/)
 - [Fluent C++](https://www.fluentcpp.com/posts/)
 - [Design and Evolution of `constexpr`](https://pvs-studio.com/en/blog/posts/cpp/0909/)
 
@@ -49,11 +87,11 @@ A curated collection of bookmarks, references, and learning resources focused on
 - [MIT 6.172: Performance Engineering](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 - [Algorithmica: HPC](https://en.algorithmica.org/hpc/)
 - [Programming Parallel Computers (Aalto)](https://ppc.cs.aalto.fi)
-- [NVIDIA Modern CUDA C++ Programming](https://www.youtube.com/playlist?list=PL5B692fm6--vWLhYPqLcEu6RF3hXjEyJr)
 - [Performance-Aware Programming Series](https://www.youtube.com/playlist?list=PLEMXAbCVnmY7t29i_rd3mnALWu-aZr_42)
 - [GPU Mode Lectures](https://github.com/gpu-mode/lectures)
 
 ### CUDA & GPU Specific
+- [NVIDIA Modern CUDA C++ Programming (YouTube Playlist)](https://www.youtube.com/playlist?list=PL5B692fm6--vWLhYPqLcEu6RF3hXjEyJr)
 - [CUDA 120 Days Challenge](https://github.com/AdepojuJeremy/CUDA-120-DAYS--CHALLENGE)
 - [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 - [NVIDIA CCCL (C++ Standard Library for CUDA)](https://github.com/NVIDIA/cccl)
@@ -87,6 +125,7 @@ A curated collection of bookmarks, references, and learning resources focused on
 - [Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 - [DSLabs (Distributed Systems Labs)](https://github.com/emichael/dslabs)
 - [Real-Time System Architecture Evolution](https://medium.com/cloud-and-servers/gerçek-zamanlı-sistem-mimarisinin-evrimi-websocketten-kafka-ya-9cc47f003633)
+- [Implementing MapReduce in Golang](https://jitesh117.github.io/blog/implementing-mapreduce-in-golang/)
 
 ---
 
