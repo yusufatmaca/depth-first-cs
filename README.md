@@ -19,7 +19,7 @@ Principia Computatoria is a personal and public treatise on computing. It embrac
 This is not a bookmark dump. It is a structured, evolving handbook.
 
 ## 🧭 Table of Contents
-- C/C++ and Memory Models
+- [C/C++ and Memory Models](docs/cpp.md)
 - High-Performance Computing, Parallel Programming, CUDA, etc.
 - Data Structures and Algorithms
 - Operating Systems and Computer System Architecture
@@ -38,7 +38,7 @@ This is not a bookmark dump. It is a structured, evolving handbook.
 principia-computatoria/
 ├── README.md
 ├── docs/
-│   ├── c-cpp.md
+│   ├── cpp.md
 │   ├── hpc.md
 │   ├── ...
 │   └── ...
