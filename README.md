@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="600">
+</p>
+
 # Principia Computatoria
 > *"To understand the machine is to understand the mind of the maker."*
 
