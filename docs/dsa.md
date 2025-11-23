@@ -21,3 +21,4 @@
 ## Topics & Challenges
 * [Challenging Algorithms](https://austinhenley.com/blog/challengingalgorithms.html)
 * Genetic and Evolutionary Algorithms
+* Cellular Automaton
