@@ -1,8 +1,12 @@
 # Principia Computatoria
-A curated, long-term knowledge vault of _Computer Science_, _Systems_, and _Engineering_ — inspired by classical "Principia" works. This repository collects foundational resources, papers, courses, tools, and essays across low-level systems, algorithms, compilers, operating systems, HPC, GPUs, databases, and more.
+> *"To understand the machine is to understand the mind of the maker."*
+
+This repository serves as a personal knowledge base and a persistent digital bookshelf. It was created to archive valuable resources—articles, university courses, white papers, and manuals—that I have encountered during my career as a Computer Scientist.
+
+The landscape of software engineering, particularly in low-level systems and high-performance computing, is vast. I created this collection primarily to safeguard these references against loss and to organize my own learning path. However, I have made it public in the hope that fellow engineers, researchers, and students traversing the same depths of computer science will find these maps useful.
 
 ## 🏛️ Philosophy
-- Principia Computatoria is a personal and public treatise on computing. It embraces:
+Principia Computatoria is a personal and public treatise on computing. It embraces:
 - First principles thinking
 - Breadth with depth across CS subfields
 - Elegant, minimalist curation
@@ -12,7 +16,7 @@ A curated, long-term knowledge vault of _Computer Science_, _Systems_, and _Engi
 This is not a bookmark dump. It is a structured, evolving handbook.
 
 ## 🧭 Table of Contents
-- C/C++
+- C/C++ and Memory Models
 - High-Performance Computing, Parallel Programming, CUDA, etc.
 - Data Structures and Algorithms
 - Operating Systems and Computer System Architecture
