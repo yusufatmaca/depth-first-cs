@@ -13,3 +13,4 @@
 * [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 * [Evolution of Real-Time Systems (WebSocket to Kafka)](https://medium.com/cloud-and-servers/gerçek-zamanlı-sistem-mimarisinin-evrimi-websocketten-kafka-ya-9cc47f003633)
 * [File System Research Papers](https://github.com/hegongshan/File-System-Paper)
+* [Algorithms for Scaling Systems](https://x.com/asmah2107/status/1968726314132849108)
