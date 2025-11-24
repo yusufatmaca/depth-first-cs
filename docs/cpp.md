@@ -5,7 +5,7 @@
 
 ## References, Manuals, Selected Posts
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-* [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices)
+* [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
 * [Pitchfork Layout](https://joholl.github.io/pitchfork-website/)
 * [Awesome C++: A collection of resources on modern C++](https://awesomecpp.com/)
 * [Beej's Guide](https://beej.us/guide/)
