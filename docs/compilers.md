@@ -6,6 +6,7 @@
 ## Theory & Tutorials
 * [CS 4120/4121/5120/5121 : Introduction to Compilers](https://www.cs.cornell.edu/courses/cs4120/2023sp/)
 * [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+* [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
 * [LLVM Tutorial](https://llvm.org/docs/tutorial/)
 * [Crafting Interpreters](https://craftinginterpreters.com/parsing-expressions.html)
 * [Teeny Tiny Compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
@@ -22,4 +23,3 @@
 ## Blogs & Recommendations
 * [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
 * [Vladimir Keleshev's Blog Page](https://keleshev.com/)
-* 
